@@ -65,10 +65,6 @@ Pull requests are welcome! For significant changes, please open an issue first t
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 > **SLRS App — Your personalized guide to smarter learning and tech mastery!**
